@@ -1,0 +1,10 @@
+{
+  "types":[
+    {
+      "name":"org.springframework.cloud.config.server.environment.EnvironmentController$$SpringCGLIB$$0",
+      "customTargetConstructorClass":"java.lang.Object"
+    }
+  ],
+  "lambdaCapturingTypes":[
+  ]
+}
